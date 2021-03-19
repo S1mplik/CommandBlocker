@@ -1,0 +1,7 @@
+BlockedCommands:
+  - help
+  - whisper
+  - pl
+
+
+Message: '[&6&lCommandBlocker&7] &cNemas prava na pouziti tohoto prikazu'

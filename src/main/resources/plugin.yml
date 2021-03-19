@@ -1,0 +1,9 @@
+name: CommandBlocker
+version: ${project.version}
+main: cz.danix25.commandblocker.CommandBlocker
+api-version: 1.12.2
+authors: [ Danix25 ]
+commands:
+  cb:
+    usage: /<command>
+    description: Command Blocker
